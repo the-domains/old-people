@@ -1,0 +1,28 @@
+name: Old People
+favicon: null
+layout_spectrum: 0.3450274169445038
+typography_spectrum: 0.6598584339953959
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5548808902967721
+  lightness: 0.3345544030889869
+  saturation: 0.3676857468672097
+  rhythmicContrast: 0.6328415342140943
+purpose: []
